@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+  }
+  
+  header {
+    background-color: orange;
+    color:#fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #cookie-display {
+    background-color: lightblue;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+  }
+  
+  #cookie-img {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+  }
+  
+  #click-message {
+    margin: 10px 0;
+    color:red#555;
+  }
+  
+  #cookie-count {
+    font-size: 16px;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:blue rgb(255, 255, 255);
+    border: 1px solid #ccc;
+  }
+  
+  footer {
+    background-color: cornflowerblue;
+    color: greenyellow;
+    padding: 10px;
+    text-align: center;
+  }
